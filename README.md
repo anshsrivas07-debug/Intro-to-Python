@@ -11,6 +11,7 @@ Title
 Introduction to Python Programming and Installation of Jupyter Notebook Using Anaconda
 ________________________________________
 Aim
+
 To study the basics of Python programming language, understand the Python execution environment, install Python and Jupyter Notebook using Anaconda distribution, and explore various Python IDEs including Google Colab.
 ________________________________________
 Objectives
